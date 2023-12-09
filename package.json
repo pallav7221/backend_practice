@@ -1,0 +1,15 @@
+{
+  "name": "backend-practice",
+  "version": "1.0.0",
+  "description": "Backend practice project using nodejs and mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "backend",
+    "node"
+  ],
+  "author": "pallav",
+  "license": "ISC"
+}
